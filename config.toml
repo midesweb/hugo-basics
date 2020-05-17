@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Este es el titulo del sitio completo"
+theme = "startermik"
